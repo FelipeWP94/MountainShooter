@@ -11,4 +11,4 @@ Can be played coop (2 players).
 Score is saved in database (SQLite3)
 
 
-### Feel free if you want to contribute
+### Feel free if you want to contribute.
